@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/davodego
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://vd-goenna.de
+  * I am davodego (https://keybase.io/davodego) on keybase.
+  * I have a public key ASAuVplmOQTe8PkYhdz7azov5xgNm7WtLbc4IjRWNNqyHQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01202e5699663904def0f91885dcfb6b3a2fe7180d9bb5ad2db73822345634dab21d0a",
+      "host": "keybase.io",
+      "kid": "01202e5699663904def0f91885dcfb6b3a2fe7180d9bb5ad2db73822345634dab21d0a",
+      "uid": "7aceca6d1b607686c4cebd36352cfe19",
+      "username": "davodego"
+    },
+    "merkle_root": {
+      "ctime": 1546548329,
+      "hash": "c0d5f639420ebc44aff1f492ead26fd1d965e9d37c61dc2e1b56812d28dcfec43149f1324769565abd2e95ebfe5da3ad7302d0f3775c52758ef3f211595e5ba9",
+      "hash_meta": "ebab923d98a83020dfc3320d75bb46628a40d574c4da1a6f759899753ce06e1e",
+      "seqno": 4227421
+    },
+    "service": {
+      "entropy": "R+Wz7lapZ3IvZVjR8iAESvvN",
+      "hostname": "vd-goenna.de",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.8.0"
+  },
+  "ctime": 1546548334,
+  "expire_in": 504576000,
+  "prev": "6f6df51781b909b6d5daa41c137c02de6e2694200875ed0210139ac196ab3b34",
+  "seqno": 61,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLlaZZjkE3vD5GIXc+2s6L+cYDZu1rS23OCI0VjTash0Kp3BheWxvYWTESpcCPcQgb231F4G5CbbV2qQcE3wC3m4mlCAIde0CEBOawZarOzTEIHd3gNAUGn6MWaK2SPbxqndHZL7wUFwdKqRFJ05XEHDqAgHCo3NpZ8RARC/sZRLACVqrkhnBVvcNwJgI/t/knf64Ro21AVcvPfyK+Ag5n0gtpHMLI2qCj8Ya86whAWCTq+XzGM4OklxlCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJZSiPkODTZ2C4SMm4GU0p6uAtBkkw5rSB+tQJ8Temb8o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/davodego
+
+==================================================================
