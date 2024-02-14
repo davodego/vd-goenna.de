@@ -74,7 +74,6 @@ h2#infobox {margin:0;
     color:#000000;
     border-left:solid 1px #8E8E8E;
     border-right:solid 1px #8E8E8E;
-    border-top: solid 1px #8E8E8E;
     border-top-left-radius: 20px; 
     border-top-right-radius: 20px; 
     -moz-border-radius-topleft: 20px; 
@@ -84,7 +83,6 @@ h2#infobox {margin:0;
 
 div#infobox {border-left:1px solid #8E8E8E;
 	border-right:1px solid #8E8E8E;
-	border-bottom: 1px solid #8E8E8E;
 	border-bottom-left-radius: 20px; 
 	border-bottom-right-radius: 20px; 
 	-moz-border-radius-bottomleft: 20px; 
