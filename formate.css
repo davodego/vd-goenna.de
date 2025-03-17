@@ -18,7 +18,7 @@ div#zentinh {margin:auto;
 	align:center;
 	padding:2px;
 	width:80%;
-	height: 560px;
+	height: 660px;
 	text-align:left;
 	vertical-align: middle;
 	background-color:#c0bfbf;
@@ -53,7 +53,7 @@ p#untertitel {font-size:0.8em;
 	letter-spacing:0.3em;
 	padding-bottom:75px;}
 
-#inhalt {height: 200px;
+#inhalt {height: 250px;
          background-color: transparent;
 	 width: 75%;
 	 alighn: center; 
